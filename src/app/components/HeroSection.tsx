@@ -33,7 +33,7 @@ const HeroSection = () => {
 
   return (
     <section className='h-auto flex flex-col md:flex-row'>
-        <div className="h-auto md:h-auto w-1/2 bg-[#0463FA] py-40 pl-8">
+        <div className="h-auto w-auto md:h-auto md:w-1/2 bg-[#0463FA] py-40 pl-8">
           <h2 className="font-bold text-lg md:text-4xl lg:text-5xl text-white leading-relaxed py-8">Good Health Is The Root Of All Happiness</h2>
 
           <div className="flex flex-col md:flex-row md:gap-10 text-white ">
